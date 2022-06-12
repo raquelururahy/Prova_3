@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1655073156 source:c:\users\raque\desktop\programas codblock\prova_3\minhabiblioteca.c
+	"MinhaBiblioteca.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1655073156 c:\users\raque\desktop\programas codblock\prova_3\minhabiblioteca.h
+
+1655072607 source:c:\users\raque\desktop\programas codblock\prova_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"MinhaBiblioteca.h"
+	"MinhaBiblioteca.c"
+
+1655073156 c:\users\raque\desktop\programas codblock\prova_3\minhabiblioteca.c
+	"MinhaBiblioteca.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
